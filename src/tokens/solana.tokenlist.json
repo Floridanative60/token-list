@@ -79869,10 +79869,9 @@
       "symbol": "DEER",
       "name": "Bruces Deer Coin",
       "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/Floridanative60/crypto/main/logo.png?token=GHSAT0AAAAAABQTVYOTCSM2TPUUN6FH6UFOYPDGDPQ",
+      "logoURI": "https://raw.githubusercontent.com/Floridanative60/crytologo/main/deer.PNG",
       "tags": [
-        "social-token",
-        "community-token"
+        "social-token"
       ],
       "extensions": {
         "website": "http://4greatfishing.com",
