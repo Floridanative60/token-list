@@ -79847,6 +79847,36 @@
       "extensions": {
         "instagram": "https://www.instagram.com/sinnerfilozofiya"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "6uZmhU7YfKzKaV9kkv73oXgjiDKnnKriB1gQYPxjce3H",
+      "symbol": "DEER",
+      "name": "Bruces Deer Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Floridanative60/crypto/main/logo.png?token=GHSAT0AAAAAABQTVYOTCSM2TPUUN6FH6UFOYPDGDPQ",
+      "tags": [
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "http://4greatfishing.com",
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "6uZmhU7YfKzKaV9kkv73oXgjiDKnnKriB1gQYPxjce3H",
+      "symbol": "DEER",
+      "name": "Bruces Deer Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Floridanative60/crypto/main/logo.png?token=GHSAT0AAAAAABQTVYOTCSM2TPUUN6FH6UFOYPDGDPQ",
+      "tags": [
+        "social-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "http://4greatfishing.com",
+      }
     }
   ],
   "version": {
